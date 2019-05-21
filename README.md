@@ -1,4 +1,6 @@
-# schedula-oblong-data
+# Schedula Oblong Data
+
+A w-i-p experiment for an interface for managing multi-event events.
 
 ## Project setup
 ```
@@ -25,5 +27,3 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
